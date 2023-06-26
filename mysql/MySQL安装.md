@@ -4,7 +4,7 @@
 
 https://downloads.mysql.com/archives/community/
 
-![1645492220241](assets\1645492220241.png)
+![1645492220241](../assets/1645492220241.png)
 
 ## 2.创建用户
 

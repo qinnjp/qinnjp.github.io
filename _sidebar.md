@@ -3,3 +3,11 @@
 * 中间件
   * Nginx
     * [安装](中间件/nginx/install)
+* MySQL
+  * 安装部署
+    * [单机部署](mysql/MySQL安装)
+    * [主从部署](mysql/MySQL%E4%B8%BB%E4%BB%8E%E9%83%A8%E7%BD%B2.md)
+  * [体系结构](mysql/体系结构.md)
+  * [基础管理](mysql/%E5%9F%BA%E7%A1%80%E7%AE%A1%E7%90%86.md)
+  * [SQL基础](mysql/4.SQL%E5%9F%BA%E7%A1%80.md)
+  * [索引执行计划](mysql//5.%E7%B4%A2%E5%BC%95%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92.md)
